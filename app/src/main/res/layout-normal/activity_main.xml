@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/loginscreen1"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="270dp"
+            android:layout_marginTop="570dp"
+            android:background="@drawable/shape1"
+            android:elevation="10dp"
+            android:foreground="@drawable/loginbtn"
+            android:foregroundTint="@color/white"
+            android:textSize="45sp"
+            android:translationZ="10dp"
+            app:iconPadding="0dp"
+            app:rippleColor="#B3F6FF"
+            app:strokeColor="#322D2D" />
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="330dp"
+            android:autofillHints="name"
+            android:background="@drawable/shape_text"
+            android:hint="@string/username"
+            android:inputType="textPersonName"
+            android:textAlignment="center"
+            android:translationZ="20dp"
+            android:textColor="@color/black"
+            android:textColorLink="@color/aqua"
+            tools:ignore="TextContrastCheck" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="410dp"
+            android:autofillHints="password"
+            android:background="@drawable/shape_text"
+            android:hint="@string/pass"
+            android:inputType="textPassword"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textColorLink="@color/aqua"
+            android:translationZ="20dp"
+            tools:ignore="TextContrastCheck" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="340dp"
+            android:src="@drawable/profile_btn"
+            android:contentDescription="@string/profile"
+            android:translationZ="20sp"
+            app:tint="@color/white"/>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="420dp"
+            android:src="@drawable/lock_btn"
+            android:contentDescription="@string/lock"
+            android:translationZ="20sp"
+            app:tint="@color/white"/>
+
+        <TextView
+            android:id="@+id/sign"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bangers"
+            android:text="@string/sign_in"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="330dp"
+            android:background="@drawable/shape_btn"
+            android:translationZ="10dp" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="410dp"
+            android:background="@drawable/shape_btn"
+            android:translationZ="10dp" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="500dp"
+            android:gravity="end"
+            android:text="@string/forgot_pass"
+            android:textColorLink="@color/white"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="190dp"
+            android:layout_marginTop="600dp"
+            android:text="@string/login"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="700dp"
+            android:text="@string/don_t_you_have_an_account_create"
+            android:textAlignment="center"
+            android:textColorLink="@color/white"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

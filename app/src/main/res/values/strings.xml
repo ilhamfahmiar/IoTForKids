@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IoT For Kids</string>
+    <string name="sign_in">SIGN IN !</string>
+    <string name="forgot_pass">Forgot your password? </string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="Welcome">Hello, Tamu ! .</string>
+
+    <string name="profile">profile</string>
+    <string name="lock">lock</string>
+    <string name="login">Sign In</string>
+    <string name="coba">Swipe Up Me</string>
+    <string name="don_t_you_have_an_account_create">Don\'t you have an Account? Create</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wwelcome">Welcome in IoT For Kids, Let\'s Start to do Project.</string>
+    <string name="change_account">Change Account</string>
+    <string name="go_make_project">Go Make Project</string>
+    <string name="header2">Create your Imagination and creativity in here</string>
+    <string name="btn_login">login_btn</string>
+    <string name="up">UP</string>
+    <string name="title_activity_newproject_nav">newproject_Nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_led">LED</string>
+    <string name="menu_display">DISPLAY</string>
+    <string name="menu_button">SWITCH</string>
+    <string name="menu_chart">CHART</string>
+    <string name="new_project">New Project</string>
+    <string name="back">Back</string>
+    <string name="set_ting">set_Ting</string>
+    <string name="run">run</string>
+</resources>

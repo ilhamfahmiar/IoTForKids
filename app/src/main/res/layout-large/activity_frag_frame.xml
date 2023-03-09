@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Frag_Frame">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior" />
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/menuheader">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/logout_btn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="30dp"
+                android:translationZ="10dp"
+                android:elevation="20dp"
+                android:background="@drawable/logout_btn"
+                android:rotationY="180"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/bangers"
+                android:text="@string/app_name"
+                android:textSize="25sp" />
+            <ImageButton
+                android:id="@+id/plus_pro"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="100dp"
+                android:translationZ="10dp"
+                android:elevation="20dp"
+                android:background="@drawable/plus_btn" />
+
+            <ImageButton
+                android:id="@+id/trash"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="20dp"
+                android:translationZ="10dp"
+                android:elevation="20dp"
+                android:background="@drawable/delete_btn" />
+
+            <ImageButton
+                android:id="@+id/set_ting"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="20dp"
+                android:translationZ="10dp"
+                android:elevation="20dp"
+                android:background="@drawable/setting_btn" />
+
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs_layout"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="800dp"
+        android:background="@drawable/shape_menu"
+        android:elevation="10dp"
+        android:translationZ="10dp"
+        app:tabGravity="center"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextAppearance="@style/TabLayoutStyle"
+        app:tabTextColor="@color/black" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

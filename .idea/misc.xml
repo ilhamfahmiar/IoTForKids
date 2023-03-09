@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/ic_baseline.xml" value="0.18020833333333333" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/ic_edit_white_24.xml" value="0.18020833333333333" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/led.xml" value="0.17708333333333334" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/off.xml" value="0.17708333333333334" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/popup_bg.xml" value="0.18020833333333333" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shape1.xml" value="0.19722222222222222" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shape_btn.xml" value="0.19722222222222222" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shape_header.xml" value="0.1859375" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shape_menu.xml" value="0.18333333333333332" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shape_text.xml" value="0.18333333333333332" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shapee.xml" value="0.20729166666666668" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/shapeee_btn.xml" value="0.19375" />
+        <entry key="..\:/IoTForKids/app/src/main/res/drawable/side_nav_bar.xml" value="0.1859375" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_content.xml" value="0.25078125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_frag_frame.xml" value="0.26953125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_lamp_iot.xml" value="0.22" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_main.xml" value="0.5" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_project_new.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/activity_splash_sreen.xml" value="0.25078125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/fragment_community.xml" value="0.26953125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/fragment_home.xml" value="0.26953125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/fragment_my_project.xml" value="0.26953125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-large/item_layout_ch.xml" value="0.25546875" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_content.xml" value="0.2546875" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_frag_frame.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_lamp_iot.xml" value="0.16979166666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_main.xml" value="0.16" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_project_new.xml" value="0.22" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/activity_splash_sreen.xml" value="0.1703125" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/fragment_community.xml" value="0.1" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/fragment_home.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/fragment_my_project.xml" value="0.13974358974358975" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/item_layout_ch.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout-normal/layout_navigation_header.xml" value="0.13974358974358975" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_content.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_data.xml" value="0.18177083333333333" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_frag_frame.xml" value="0.12" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_lamp_iot.xml" value="0.75" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_newproject_nav.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_pop.xml" value="0.1640625" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_project_new.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/activity_splash_sreen.xml" value="0.2" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/content_newproject_nav.xml" value="0.18177083333333333" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_community.xml" value="0.19114583333333332" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_gallery.xml" value="0.16979166666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_my_project.xml" value="0.1743659420289855" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_newwprojectfrag.xml" value="0.16979166666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/fragment_slideshow.xml" value="0.16979166666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/item_layout.xml" value="0.25" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/item_layout_ch.xml" value="0.2" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/layout_navigation_header.xml" value="0.1640625" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/nav_header_newproject_nav.xml" value="0.16979166666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/layout/shape_btnmenu.xml" value="0.17760416666666667" />
+        <entry key="..\:/IoTForKids/app/src/main/res/menu/activity_main_drawer.xml" value="0.20625" />
+        <entry key="..\:/IoTForKids/app/src/main/res/menu/navigation_menu.xml" value="0.1640625" />
+        <entry key="..\:/IoTForKids/app/src/main/res/menu/newproject__nav.xml" value="0.20625" />
+        <entry key="..\:/IoTForKids/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1859375" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/font/bangers.xml" value="0.303125" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/activity_content.xml" value="0.16" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/activity_main.xml" value="0.2318840579710145" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/activity_splash_sreen.xml" value="0.2" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/fragment_home.xml" value="0.1390625" />
+        <entry key="..\:/IoTForKids2/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.1390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
