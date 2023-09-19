@@ -1,4 +1,5 @@
 # IoTForKids
+Apps Kontrol IoT for Kids to learn beta version
 
 <h2>Make simple learn IoT for kids</h2>
 
